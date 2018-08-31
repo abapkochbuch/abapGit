@@ -11,7 +11,7 @@ To use the online feature, SSL must be setup. Offline projects will work behind 
 
 ## STRUST/SSL setup(online projects only) ##
 
-[SSL setup](guide-ssl-setup.html)
+[SSL setup](guide-ssl-setup.md)
 
 ## Proxy setup(online projects only) ##
 If your server is behind a proxy, it can be configured under Advanced -> Settings,
